@@ -8,7 +8,7 @@
 body {
 	line-height: 1.2;
     height: 100%;
-    background: #ffffff url('../img/banner01.jpg') no-repeat center top;
+    background: #ffffff url('../img/ban.jpg') no-repeat center top;
     background-size: cover;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -108,7 +108,7 @@ table {
 {
 	font-size: 44px;
 }
-.subcription-info 
+.subcription-info
 {
     width: 40%;
     margin: 0 auto 50px;
@@ -303,7 +303,7 @@ Media Queries
         margin: 0 auto;
 }
 body{
-    overflow-x:hidden; 
+    overflow-x:hidden;
 }
 }
 @media (min-width: 20px) and (max-width: 500px) {
